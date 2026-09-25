@@ -1,16 +1,99 @@
-## Hi there 👋
+# Hi, I'm Sahil Padwal
 
-<!--
-**sahilpadwal067/sahilpadwal067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on building practical full-stack applications with the MERN stack. Currently exploring AI/ML and Generative AI while strengthening my DSA and software engineering fundamentals through hands-on projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Engineering student
+- Building full-stack applications with the MERN stack
+- Exploring AI/ML and Generative AI
+- Learning through practical projects
+- Strengthening DSA and software engineering fundamentals
+
+## Tech Stack
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,js,py,html,css&perline=5" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,vite&perline=5" />
+
+React Router · Context API · Chart.js
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=5" />
+
+REST APIs · JWT · bcrypt
+
+### Database
+<img src="https://skillicons.dev/icons?i=mongodb&perline=5" />
+
+Mongoose
+
+### Real-time
+
+Socket.io · Socket programming
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=5" />
+
+## Featured Projects
+
+### RizzChat
+
+RizzChat is a real-time chat application built with the MERN stack, using Socket programming for real-time communication and snap sharing.
+
+**Key Features**
+- Real-time chat
+- Snap sharing
+- Real-time communication using Socket programming
+
+**Tech Stack:** MERN · MongoDB · Express.js · React · Node.js · Socket programming
+
+[Frontend](https://github.com/sahilpadwal067/RizzChat-FE) · [Backend](https://github.com/sahilpadwal067/RizzChat-BE)
+
+---
+
+### Focus Room
+
+Focus Room is a real-time collaborative Pomodoro application that allows users to create or join focus rooms and stay focused together with a shared synchronized timer.
+
+**Key Features**
+- JWT authentication
+- Create and join rooms using room codes/links
+- Shared real-time countdown
+- Focus, break, and idle states
+- Live participant presence
+- Focus session tracking
+- Dashboard statistics
+- User data isolation
+
+**Tech Stack:** React · Node.js · Express.js · MongoDB · Mongoose · Socket.io · JWT
+
+[Frontend](https://github.com/sahilpadwal067/Focus_Room-FE) · [Backend](https://github.com/sahilpadwal067/Focus_Room-BE)
+
+## Currently Learning
+
+- Data Structures and Algorithms
+- AI/ML
+- Generative AI
+- Practical software engineering
+
+## Development Focus
+
+Interested in building full-stack applications, backend/API systems, and real-time and AI/ML-powered applications, with an emphasis on clean and maintainable software.
+
+## Engineering Approach
+
+- Learn by building real projects
+- Understand fundamentals
+- Write clean and maintainable code
+- Work across frontend and backend
+- Use Git/GitHub for collaboration
+- Focus on practical problem solving
+
+## Connect With Me
+
+- [GitHub](https://github.com/sahilpadwal067)
+- [LinkedIn](https://www.linkedin.com/in/sahil-padwal-449959377)
+- [Email](mailto:sandeeppadwal928@gmail.com)
