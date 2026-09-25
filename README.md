@@ -18,24 +18,14 @@ Computer Engineering student focused on building practical full-stack applicatio
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,vite&perline=5" />
 
-React Router · Context API · Chart.js
-
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express&perline=5" />
 
-REST APIs · JWT · bcrypt
-
 ### Database
-<img src="https://skillicons.dev/icons?i=mongodb&perline=5" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=5" />
 
-Mongoose
-
-### Real-time
-
-Socket.io · Socket programming
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=5" />
+### Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,pycharm&perline=6" />
 
 ## Featured Projects
 
